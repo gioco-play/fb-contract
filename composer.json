@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/fb-contract",
+    "description": "fb Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "q",
+            "email": "q.wong@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\FB\\": "src/"
+        }
+    },
+    "require": {}
+}
